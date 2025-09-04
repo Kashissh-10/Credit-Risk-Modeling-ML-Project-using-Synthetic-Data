@@ -39,10 +39,10 @@ Evaluated using:
 - Synthetic Dataset Demo :  Educational workflow that reinforces modeling and EDA skills with dummy data.
 
 # Repository Structure
-Credit_Risk_Modeling_End_to_End.ipynb                 # Detailed ML pipeline with full workflow
-Credit_Risk_Modeling_Simplified.ipynb                 # Concise workflow for clarity
-Credit_Risk_Modeling_Synthetic_Dataset.ipynb          # Synthetic data demo project
-README.md                                             # Combined project documentation
+- Credit_Risk_Modeling_End_to_End.ipynb                 # Detailed ML pipeline with full workflow
+- Credit_Risk_Modeling_Simplified.ipynb                 # Concise workflow for clarity
+- Credit_Risk_Modeling_Synthetic_Dataset.ipynb          # Synthetic data demo project
+- README.md                                             # Combined project documentation
 
 # Key Learning Outcomes
 - Built three complementary versions of the same project, tailored for different audiences.
