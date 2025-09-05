@@ -1,8 +1,8 @@
 # Project Overview
 This repository contains three variations of a Credit Risk Modeling project, built using synthetic datasets to predict loan default probability. Each version demonstrates a different approach while following the complete machine learning lifecycle:
-- End-to-End Pipeline (Credit_Risk_End_to_End) → Comprehensive workflow with detailed EDA, feature engineering, multiple ML models, and evaluation.
-- Simplified Pipeline (Credit_Risk_Modeling_Simplified) → Concise version retaining essential steps for quicker execution and business storytelling.
-- Synthetic Dataset Demo (Credit_Risk_Modeling_Synthetic_Dataset.ipynb) → Educational version built with synthetic dummy data, showcasing a clean workflow with structured EDA and modeling.
+- End-to-End Pipeline (Credit_Risk_End_to_End) : Comprehensive workflow with detailed EDA, feature engineering, multiple ML models, and evaluation.
+- Simplified Pipeline (Credit_Risk_Modeling_Simplified) : Concise version retaining essential steps for quicker execution and business storytelling.
+- Synthetic Dataset Demo (Credit_Risk_Modeling_Synthetic_Dataset.ipynb) : Educational version built with synthetic dummy data, showcasing a clean workflow with structured EDA and modeling.
 This combined approach highlights adaptability in solving the same business problem across technical deep-dive, simplified, and synthetic-data scenarios.
 
 # Workflow Across Versions
